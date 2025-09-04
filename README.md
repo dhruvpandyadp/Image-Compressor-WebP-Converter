@@ -31,20 +31,23 @@ A powerful and user-friendly web application for compressing images and converti
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/dhruvpandyadp/Image-Compressor-WebP-Converter.git
-   cd Image-Compressor-WebP-Converter
    ```
 
 2. **Install dependencies:**
    ```bash
+   cd Image-Compressor-WebP-Converter
+   ```
+
+   ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the application:**
+4. **Run the application:**
    ```bash
    streamlit run app.py
    ```
 
-4. **Open your browser** and go to `http://localhost:8501`
+5. **Open your browser** and go to `http://localhost:8501`
 
 ## 💻 Usage
 
