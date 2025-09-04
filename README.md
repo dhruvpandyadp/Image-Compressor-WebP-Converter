@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)](https://github.com/dhruvpandyadpdp/streamlit-image-compressor)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)](https://github.com/dhruvpandyadpdp/Image-Compressor-WebP-Converter)
 
 A powerful and user-friendly web application for compressing images and converting them to WebP format with automatic size optimization for both desktop and mobile devices.
 
