@@ -7,7 +7,7 @@
 
 A powerful and user-friendly web application for compressing images and converting them to WebP format with automatic size optimization for both desktop and mobile devices.
 
-![App Preview](https://img.shields.io/badge/Demo-Live%20App-brightgreen)
+[![App Preview](https://img.shields.io/badge/Demo-Live%20App-brightgreen)](https://fastwebp.streamlit.app/)
 
 ## ✨ Key Features
 
