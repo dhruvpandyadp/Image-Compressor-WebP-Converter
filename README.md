@@ -120,13 +120,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](screenshots/main-interface.webp)
 
 ### Compression Results
-![Compression Results](screenshots/compression-results.png)
+![Compression Results](screenshots/compression-results.webp)
 
 ### Mobile Interface
-![Mobile Interface](screenshots/mobile-interface.png)
+![Mobile Interface](screenshots/mobile-interface.webp)
 
 ---
 
