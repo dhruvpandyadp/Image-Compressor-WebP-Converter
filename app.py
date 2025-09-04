@@ -235,8 +235,7 @@ def main():
 
     st.title("🖼️ Image Compressor & WebP Converter")
     st.write("Upload your image and compress it to WebP format with custom size limits!")
-    st.info("✨ **New**: Transparent PNG images now maintain transparency in WebP output!")
-
+    
     # Sidebar for settings
     st.sidebar.header("⚙️ Compression Settings")
     target_size = st.sidebar.number_input(
